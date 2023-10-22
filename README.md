@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rabab Elmamy
 ====================================================================================================================================
- 
+
 Développeur Logiciel
 --------------------
 
@@ -29,5 +29,3 @@ Je suis une développeuse passionnée avec une solide expérience dans le dével
 <a href="http://www.github.com/Rababmedle"><img src="https://github-readme-stats.vercel.app/api?username=Rababmedle&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=713f12&hide_border=true&show_icons=true" alt="Rababmedle's GitHub stats" /></a>
 
 <a href="http://www.github.com/Rababmedle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rababmedle&stroke=ffffff&background=713f12&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Rababmedle" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rababmedle&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
